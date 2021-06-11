@@ -141,6 +141,7 @@ Coop | Business Areas | Region/Country | Notes
 [Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France | |
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | |
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
+[Panacea Cooperative Research](https://panacea-coop.com) | Machine Learning and Biomedical Imaging | Granada, Ponferrada, Spain | Panacea was founded by a group of highly accomplished AI researchers originating from the most recognized international research institutions. |
 [Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
 [Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany | |
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
